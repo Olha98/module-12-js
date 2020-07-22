@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Olha98/js-module-12.git"
+    "url": "git+https://github.com/Olha98/module-12-js.git"
   },
   "keywords": [],
   "author": "Olha Hrymchak <forwork1177@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://https://github.com/Olha98/js-module-12/issues"
+    "url": "https://https://github.com/Olha98/module-12-js/issues"
   },
-  "homepage": "https://Olha98.github.io/js-module-12",
+  "homepage": "https://Olha98.github.io/module-12-js",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
